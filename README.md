@@ -1,5 +1,5 @@
 # SimpleDraw App
-This github repo exists to provide a public roadmap and bug database for the SimpleDraw app (https://simpledraw.app)
+This github provides a public roadmap and bug database for the SimpleDraw app (https://simpledraw.app)
 
 It can be used by anyone with a GitHub account to
 
